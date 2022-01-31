@@ -9,3 +9,7 @@ Per la costruzione e definizione del database è stato utilizzato PostgreSQL
 
 Per la stesura della documentazione si è fatto uso dell'applicativo LaTex
 > il 'Progetto_BD_Documentazione.pdf' contiene la documentazione progettuale
+
+AUTORI:
+- Mercorio Gianluigi N86003834
+- Loreto Michele Pio N86003803

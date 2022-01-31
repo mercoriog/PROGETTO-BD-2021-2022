@@ -13,7 +13,8 @@ Per la stesura della documentazione si è fatto uso dell'applicativo LaTex
 
 
 Il file .sql presenta:
-- Creazione di Tabelle e Vincoli
+- [Creazione di Tabelle](https://github.com/mercoriog/PROGETTO-BD-2021-2022/blob/d7618723eccc6bd60d66f8586fc4004c34c90781/Database.sql#L1) 
+- Definizione dei Vincoli
 - Inizializzazione delle sequenze
 - Procedure e Trigger
 - Popolazione DB
